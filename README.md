@@ -3,6 +3,7 @@
 This project implements the DC GAN architecture from scratch to generate high-quality anime images. 
 The model was trained on the Anime dataset for 500 epochs using an RTX 3060 6gb GPU. Tensorboard was used to visualize the quality of images.
 
+
 ## Getting Started
 
 To get started with this project, you can follow these steps:
@@ -21,9 +22,13 @@ The model was trained for 500 epochs using an RTX 3060 6gb GPU for 6 hours. The 
 
 After training the model for 500 epochs, the generated anime images showed remarkable quality and clarity. These images can be viewed in the generated_images folder.
 
+Following are few Cherry Picked Generated Images after training the model for 500 epochs:
+
 ![Generated Image 1](generated_images/image_epoch500.png/generated_7.png)
 ![Generated Image 2](generated_images/image_epoch500.png/generated_32.png)
 ![Generated Image 3](generated_images/image_epoch500.png/generated_8.png)
+![Generated Image 1](generated_images/image_epoch500.png/generated_26.png)
+![Generated Image 1](generated_images/image_epoch500.png/generated_45.png)
 
 ## Acknowledgments
 
